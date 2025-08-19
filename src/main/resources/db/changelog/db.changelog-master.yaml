@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: ../migration/V1__initial_schema.sql
+      relativeToChangelogFile: true
