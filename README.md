@@ -29,8 +29,8 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/piomin/sample-spring-kotlin-microservice.git
-cd sample-spring-kotlin-microservice
+git clone https://github.com/ChristianPacifici/node-manager-svc
+cd node-manager-svc
 ```
 
 2. build with gradle wrapper/docker
