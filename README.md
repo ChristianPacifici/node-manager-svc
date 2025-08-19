@@ -29,7 +29,7 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/ChristianPacifici/node-manager-svc
+git clone https://github.com/ChristianPacifici/node-manager-svc.git
 cd node-manager-svc
 ```
 
